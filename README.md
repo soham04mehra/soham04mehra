@@ -16,18 +16,13 @@
 </div>
 
 ---
-
 ## 🧠 About Me
 
-```python
-soham = {
-    "role": "Generative AI Engineer",
-    "location": "India 🇮🇳",
-    "focus": ["RAG Pipelines", "LLM Applications", "Knowledge Graphs", "Chatbots"],
-    "currently_exploring": ["Agentic AI", "MCP", "Hybrid Search", "LangGraph"],
-    "fun_fact": "I turn unstructured data into structured intelligence 🔍"
-}
-```
+- 🤖 Generative AI Engineer
+- 🇮🇳 Based in India
+- 🔍 Focused on RAG Pipelines, LLM Applications, and Knowledge Graphs
+- 🚀 Exploring Agentic AI, MCP, Hybrid Search, and LangGraph
+- ⚡ Passionate about turning unstructured data into intelligent systems
 
 I build production-ready AI systems — from multi-tenant RAG pipelines and intelligent chatbots to graph-powered knowledge retrieval. I'm obsessed with making LLMs actually useful in the real world.
 
