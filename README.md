@@ -112,22 +112,6 @@ I build production-ready AI systems — from multi-tenant RAG pipelines and inte
 
 ---
 
-## 🐍 Contributions Getting Eaten
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soham04mehra/soham04mehra/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soham04mehra/soham04mehra/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/soham04mehra/soham04mehra/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-> ⚙️ To enable: go to your profile repo → **Actions** → enable workflows. [Snake setup guide →](https://github.com/Platane/snk)
-
----
-
 ## 🌱 What I'm Building Towards
 
 ```
